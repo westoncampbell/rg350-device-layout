@@ -46,4 +46,4 @@ This project was inspired by the [RafaVico](https://github.com/RafaVico) GitHub 
 
 ## Changelog
 **Revision 1** - 4/26/2020
-  * Initial Release
+ * Initial Release
