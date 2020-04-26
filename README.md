@@ -2,7 +2,7 @@
 
 Pixel-perfect approximation of the RG350 device layout.
 
-![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80297957-d2609d00-874d-11ea-9974-ac220c8efc39.png)
+![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80315465-53a34880-87bd-11ea-8353-78f887f17dc0.png)
 
 All front, top, and bottom elements of the device's layout are labeled and packaged as individual transparent PNG layer images, and the Paint.NET project file.
 
@@ -22,6 +22,7 @@ All front, top, and bottom elements of the device's layout are labeled and packa
 * LED INDICATOR
 * LEFT STICK
 * RIGHT STICK
+* LED
 
 ### TOP
 * L1
@@ -46,5 +47,9 @@ This project was inspired by the [RafaVico](https://github.com/RafaVico) GitHub 
 
 **Changelog**
 ---
+* **Apr 26, 2020 - Revision 2**
+  * Added "LED" label
+  * Fixed line drawing on wrong layer image
+  * Tweaked label placements
 * **Apr 26, 2020 - Revision 1**
   * Initial Release
