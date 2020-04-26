@@ -2,9 +2,9 @@
 
 Pixel-perfect approximation of the RG350 device layout.
 
-All front, top, and bottom elements of the device's layout are labeled.
+![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80297957-d2609d00-874d-11ea-9974-ac220c8efc39.png)
 
-Includes individual transparent PNG layer images, and the Paint.NET project file.
+All front, top, and bottom elements of the device's layout are labeled and packaged as individual transparent PNG layer images, and the Paint.NET project file.
 
 ### FRONT
 * SELECT
@@ -42,4 +42,4 @@ Includes individual transparent PNG layer images, and the Paint.NET project file
 * RESET
 * SPEAKER RIGHT
 
-![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80297957-d2609d00-874d-11ea-9974-ac220c8efc39.png)
+This project was inspired by the [RafaVico](https://github.com/RafaVico) GitHub repository for [RG350 Test](https://github.com/RafaVico/rg350_test). Version 1.3d of RafaVico's RG350 Test application was used, extracting the images to use as the base project files. The initial source files contained compression artifacts and gradient effects to give a three-dimensional appearance, however I modified the images to use a flat color palette while adding many additional layout elements, such as RESET, TF, SPEAKERS, USB1&2, AV, HDMI, etc...
