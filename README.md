@@ -49,6 +49,10 @@ This project was inspired by the [RafaVico](https://github.com/RafaVico) GitHub 
 
 **Changelog**
 ---
+* **Apr 26, 2020 - Revision 3**
+  * Added extra color options to include BLACK, GREY, CRYSTAL BLACK, & CRYSTAL CLEAR.
+  * Added extra wording to USB1 & USB2 to represent USB OTG & DC POWER.
+  * Tweaked colors
 * **Apr 26, 2020 - Revision 2**
   * Added "LED" label
   * Fixed line drawing on wrong layer image
