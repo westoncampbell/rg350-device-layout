@@ -2,7 +2,7 @@
 
 Pixel-perfect approximation of the RG350 device layout.
 
-![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80315465-53a34880-87bd-11ea-8353-78f887f17dc0.png)
+![COMPOSITE LARGE](https://user-images.githubusercontent.com/14294487/80319127-53fb0e00-87d4-11ea-83b2-7a97aa080ac5.png)
 
 All front, top, and bottom elements of the device's layout are labeled and packaged as individual transparent PNG layer images, and the Paint.NET project file.
 
